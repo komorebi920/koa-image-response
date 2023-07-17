@@ -1,0 +1,17 @@
+{
+  "name": "koa-image-response",
+  "private": true,
+  "description": "koa 返回图片文件流示例",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:komorebi920/koa-image-response.git",
+  "author": "komorebi920 <yxc900920@163.com>",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.0",
+    "koa-static": "^5.0.0"
+  },
+  "license": "MIT"
+}
